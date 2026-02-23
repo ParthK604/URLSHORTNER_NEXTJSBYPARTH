@@ -1,3 +1,35 @@
+🔗 ShotLinks
+
+ShotLinks is a fullstack URL Shortener built using Next.js (App Router) and MongoDB.
+It allows users to generate custom short links and automatically redirects users to the original URL when visited.
+
+🚀 Features
+
+🔗 Generate Custom Short URLs
+
+⚡ Instant Redirection
+
+🗄️ MongoDB Database Integration
+
+🧠 Dynamic Routing using [shorturl]
+
+🌐 REST API built with Next.js Route Handlers
+
+📦 Environment Variable Configuration
+
+🛠️ Tech Stack
+
+Frontend: Next.js (App Router)
+
+Backend: Next.js Route Handlers (app/api)
+
+Database: MongoDB (Compass - Localhost)
+
+Styling: Tailwind CSS
+
+Environment Config: .env.local
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
